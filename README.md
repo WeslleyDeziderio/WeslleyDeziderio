@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @WeslleyDeziderio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2>Hi, and welcome to my GitHub<h2>
+<h3>Here, you will know a few about me and what i do.</h3>
 
-<!---
-WeslleyDeziderio/WeslleyDeziderio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>My name is Weslley and currently i'm a Computer Engineer student on UFPB and work as a software developer on Synchro - Soluções Fiscais, a tax solution company in Brazil.</p>
+
+<p>My interest areas currently are:</p>
+
+<ul>
+ <li>Operations Research</li>
+ <li>Algorithms and Data Structures</li>
+ <li>Statistic</li>
+</ul>
+
+<h3>Reach me</h3>
+
+[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/weslleydeziderio/)
