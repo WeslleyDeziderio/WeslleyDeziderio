@@ -1,5 +1,5 @@
 <h3 align="center"><samp>Hi and welcome to my GitHub profile. Here you will know a few about me and what i do</samp><h3>
-<h3 align="center"><samp><p>My name is Weslley and currently i'm a Computer Engineer student on UFPB and work as a software developer on Synchro - Soluções Fiscais, a tax solution company in Brazil.</p></samp></h3>
+<h3 align="center"><samp><p>My name is Weslley and currently i work as a software developer on Synchro - Soluções Fiscais, a tax solution company in Brazil.</p></samp></h3>
  
 <p align="center"><br>
  <samp>
@@ -8,7 +8,7 @@
 </p>
  
  <details align="center">
-   <summary> <samp>&#9776; Click to see my current areas of interest:</samp></summary>
+   <summary> <samp>&#9776; Click to check my current areas of interest:</samp></summary>
    <p align="center"> <br>
      Statistics <br>
      Oerations Research <br>
