@@ -11,7 +11,7 @@
    <summary> <samp>&#9776; Click to check my current areas of interest:</samp></summary>
    <p align="center"> <br>
      Statistics <br>
-     Oerations Research <br>
+     Operations Research <br>
      Competitive Programming <br>
   </samp>
   </p>
