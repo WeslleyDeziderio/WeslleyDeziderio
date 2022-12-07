@@ -7,7 +7,21 @@
  </samp>
 </p>
  
- <details align="center">
+<details align="center">
+ <summary> <samp>&#9776; Click to check my current areas of interest:</samp></summary>
+ <p align="center">
+   <br>
+     <samp>
+      Statistics <br>
+      Software Engineering <br>
+      Operations Research <br>
+      Competitive Programming <br>
+  </samp>
+</samp>
+</p>
+</details>
+ 
+<!--  <details align="center"><samp>
    <summary> <samp>&#9776; Click to check my current areas of interest:</samp></summary>
    <p align="center"> <br>
      Statistics <br>
@@ -15,7 +29,10 @@
      Competitive Programming <br>
   </samp>
   </p>
-</details>
+</details> -->
 
-<!-- <h3 align="center"> Reach me </h3>
-<img align="center" src= "[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/weslleydeziderio/)"> -->
+<h3 align="center"><samp>Get in touch</samp></h3>
+<div align="center"> 
+  <a href = "mailto:weslleydeziderio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/weslleydeziderio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
