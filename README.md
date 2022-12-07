@@ -3,7 +3,7 @@
  
 <p align="center"><br>
  <samp>
-   「 And i am a Computer Engineer student too on @ <b>Universidade Federal da Paraíba</b> 」<br>
+   「 Beside that, i am a Computer Engineer student too on @ <b>Universidade Federal da Paraíba</b> 」<br>
  </samp>
 </p>
  
