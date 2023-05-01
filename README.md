@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hi and welcome to my GitHub profile. Here you will know a few about me and what i do.</samp><h3>
+<h3 align="center"><samp>Hi and welcome to my GitHub profile.</samp><h3>
 <h3 align="center"><samp><p>My name is Weslley and currently i work as a software developer on Synchro - Soluções Fiscais, a brazilian tax solution company.</p></samp></h3>
  
 <p align="center"><br>
@@ -8,28 +8,19 @@
 </p>
  
 <details align="center">
- <summary> <samp>&#9776; Click to check my current areas of interest:</samp></summary>
+ <summary> <samp>&#9776; Click and check my current areas of interest:</samp></summary>
  <p align="center">
    <br>
      <samp>
-      Statistics <br>
+      Free and Open Source Software <br>
       Software Engineering <br>
-      Operations Research <br>
+      Web Development <br>
+      Optimization <br>
       Competitive Programming <br>
   </samp>
 </samp>
 </p>
 </details>
- 
-<!--  <details align="center"><samp>
-   <summary> <samp>&#9776; Click to check my current areas of interest:</samp></summary>
-   <p align="center"> <br>
-     Statistics <br>
-     Operations Research <br>
-     Competitive Programming <br>
-  </samp>
-  </p>
-</details> -->
 
 <h3 align="center"><samp>Get in touch</samp></h3>
 <div align="center"> 
