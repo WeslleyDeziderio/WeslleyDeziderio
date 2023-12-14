@@ -1,4 +1,4 @@
-<h3 align="center"><samp><p>I'm Weslley and currently i work as researcher in software development at Synchro, a brazilian tax solution company, also i'm a Computer Engineer student at @ <b>UFPB.</p></samp></h3>
+<h3 align="center"><samp><p>I'm Weslley and currently i work as researcher in software development at Synchro, a brazilian tax solution company, also i'm a Computer Engineer student at <b>UFPB.</p></samp></h3>
  
 <details align="center">
  <summary> <samp>&#9776; Click and check my current areas of interest:</samp></summary>
